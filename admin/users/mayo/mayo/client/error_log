@@ -1,0 +1,211 @@
+[12-Aug-2014 08:13:29 America/Chicago] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:13:29 America/Chicago] PHP Warning:  include(functions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:13:29 America/Chicago] PHP Warning:  include(): Failed opening 'functions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:13:29 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:15:41 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:41 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:41 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:41 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:15:42 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:42 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:42 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:15:42 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:16:03 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:03 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:03 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:03 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:16:04 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:04 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:04 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:04 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:05 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[12-Aug-2014 08:16:06 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:06 America/Chicago] PHP Warning:  include(loginfunctions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:06 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunctions.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/login.php on line 7
+[12-Aug-2014 08:16:06 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 8
+[13-Aug-2014 02:22:50 America/Chicago] PHP Fatal error:  Call to undefined function mysq_real_escape_string() in /home/arvsush/public_html/mayo/client/login.php on line 19
+[13-Aug-2014 02:28:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/mayo-admin/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 74
+[13-Aug-2014 02:29:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/mayo-admin/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 75
+[13-Aug-2014 02:36:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/mayo-admin/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 76
+[13-Aug-2014 02:37:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/mayo-admin/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 66
+[13-Aug-2014 02:37:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/mayo-admin/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 68
+[13-Aug-2014 02:38:35 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:36 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:37 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:37 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:38 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:38 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:38 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:38 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:38:39 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:07 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:08 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:09 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:09 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:10 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:10 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:10 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:10 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:28 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:40:29 America/Chicago] PHP Warning:  include($functionlogin): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:29 America/Chicago] PHP Warning:  include($functionlogin): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:29 America/Chicago] PHP Warning:  include(): Failed opening '$functionlogin' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:57 America/Chicago] PHP Warning:  include(/home/arvsush/public_htmlmayo/client/loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:57 America/Chicago] PHP Warning:  include(): Failed opening '/home/arvsush/public_htmlmayo/client/loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:58 America/Chicago] PHP Warning:  include(/home/arvsush/public_htmlmayo/client/loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:40:58 America/Chicago] PHP Warning:  include(): Failed opening '/home/arvsush/public_htmlmayo/client/loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:41:00 America/Chicago] PHP Warning:  include(/home/arvsush/public_htmlmayo/client/loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:41:00 America/Chicago] PHP Warning:  include(): Failed opening '/home/arvsush/public_htmlmayo/client/loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:41:13 America/Chicago] PHP Warning:  include(/home/arvsush/public_htmlmayo/client/loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:41:13 America/Chicago] PHP Warning:  include(): Failed opening '/home/arvsush/public_htmlmayo/client/loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/header.php on line 3
+[13-Aug-2014 02:41:15 America/Chicago] PHP Fatal error:  Cannot redeclare loggedin() (previously declared in /home/arvsush/public_html/mayo/client/loginfunction.php:6) in /home/arvsush/public_html/mayo/client/loginfunction.php on line 11
+[13-Aug-2014 02:41:16 America/Chicago] PHP Fatal error:  Cannot redeclare loggedin() (previously declared in /home/arvsush/public_html/mayo/client/loginfunction.php:6) in /home/arvsush/public_html/mayo/client/loginfunction.php on line 11
+[13-Aug-2014 02:41:36 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:37 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:39 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:40 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:40 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:40 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:50 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/login.php on line 7
+[13-Aug-2014 02:41:51 America/Chicago] PHP Fatal error:  Cannot redeclare loggedin() (previously declared in /home/arvsush/public_html/mayo/client/loginfunction.php:6) in /home/arvsush/public_html/mayo/client/loginfunction.php on line 11
+[13-Aug-2014 02:41:52 America/Chicago] PHP Fatal error:  Cannot redeclare loggedin() (previously declared in /home/arvsush/public_html/mayo/client/loginfunction.php:6) in /home/arvsush/public_html/mayo/client/loginfunction.php on line 11
+[13-Aug-2014 02:41:53 America/Chicago] PHP Fatal error:  Cannot redeclare loggedin() (previously declared in /home/arvsush/public_html/mayo/client/loginfunction.php:6) in /home/arvsush/public_html/mayo/client/loginfunction.php on line 11
+[13-Aug-2014 02:42:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:42:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:56:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:57:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:58:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:59:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 02:59:57 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/arvsush/public_html/mayo/client/login.php on line 41
+[13-Aug-2014 03:00:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:12) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:00:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:37) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:01:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:01:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:54) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:02:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:54) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:03:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 70
+[13-Aug-2014 03:04:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:04:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:05:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:05:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:08:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:10:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/header.php:8) in /home/arvsush/public_html/mayo/client/login.php on line 49
+[13-Aug-2014 03:11:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:9) in /home/arvsush/public_html/mayo/client/login.php on line 48
+[13-Aug-2014 03:11:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:9) in /home/arvsush/public_html/mayo/client/login.php on line 48
+[13-Aug-2014 03:18:28 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/arvsush/public_html/mayo/client/login.php on line 75
+[13-Aug-2014 03:25:46 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:25:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:25:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:25:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:25:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:01 America/Chicago] PHP Parse error:  syntax error, unexpected '=', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:02 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:03 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:17 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:18 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:19 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:26:20 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/login.php on line 9
+[13-Aug-2014 03:28:21 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/arvsush/public_html/mayo/client/login.php on line 53
+[13-Aug-2014 03:30:01 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/arvsush/public_html/mayo/client/login.php on line 78
+[13-Aug-2014 03:30:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/arvsush/public_html/mayo/client/login.php on line 78
+[13-Aug-2014 03:30:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/arvsush/public_html/mayo/client/login.php on line 78
+[13-Aug-2014 03:30:03 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/arvsush/public_html/mayo/client/login.php on line 78
+[13-Aug-2014 03:30:04 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/arvsush/public_html/mayo/client/login.php on line 78
+[13-Aug-2014 04:48:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 74
+[13-Aug-2014 04:49:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 74
+[13-Aug-2014 04:49:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 74
+[13-Aug-2014 04:49:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 72
+[13-Aug-2014 04:50:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 72
+[13-Aug-2014 04:51:00 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arvsush/public_html/mayo/client/login.php:31) in /home/arvsush/public_html/mayo/client/login.php on line 72
+[13-Aug-2014 06:40:30 America/Chicago] PHP Warning:  require_once(includes/functions.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/signup.php on line 122
+[13-Aug-2014 06:40:30 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'includes/functions.php' (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/signup.php on line 122
+[14-Aug-2014 04:50:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 83
+[14-Aug-2014 04:50:25 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 83
+[14-Aug-2014 04:50:35 America/Chicago] PHP Fatal error:  Call to undefined function msyql_query() in /home/arvsush/public_html/mayo/client/forgot-password.php on line 78
+[14-Aug-2014 04:51:28 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/arvsush/public_html/mayo/client/forgot-password.php on line 80
+[14-Aug-2014 04:51:33 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/arvsush/public_html/mayo/client/forgot-password.php on line 80
+[14-Aug-2014 04:51:59 America/Chicago] PHP Fatal error:  Can't use function return value in write context in /home/arvsush/public_html/mayo/client/forgot-password.php on line 80
+[14-Aug-2014 05:54:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 82
+[14-Aug-2014 06:17:12 America/Chicago] PHP Parse error:  syntax error, unexpected '$activation' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 103
+[14-Aug-2014 06:17:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$activation' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 103
+[14-Aug-2014 07:01:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 114
+[14-Aug-2014 07:01:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 114
+[14-Aug-2014 07:01:15 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 114
+[14-Aug-2014 07:01:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$message' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 114
+[14-Aug-2014 07:16:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:16:37 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:16:38 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:17:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:17:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:53 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:56 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:18:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:19:27 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:19:28 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:19:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:19:30 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:20:00 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:20:01 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:20:02 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:20:03 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:05 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:06 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:07 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:22:08 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:50 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:50 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:24:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:25:33 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:25:34 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:25:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:35 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:36 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:51 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:52 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:53 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:26:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:46 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:47 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:48 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:49 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:27:50 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:13 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:37 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:38 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:39 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:40 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:28:43 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 07:29:00 America/Chicago] PHP Parse error:  syntax error, unexpected '$token' (T_VARIABLE) in /home/arvsush/public_html/mayo/client/forgot-password.php on line 122
+[14-Aug-2014 08:00:26 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/forget-password.php on line 146
+[14-Aug-2014 08:00:27 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/forget-password.php on line 146
+[14-Aug-2014 08:00:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/arvsush/public_html/mayo/client/forget-password.php on line 146

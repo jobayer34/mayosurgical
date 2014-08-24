@@ -1,0 +1,16 @@
+[13-Aug-2014 02:12:10 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:10 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:10 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:10 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/welcome/index.php on line 8
+[13-Aug-2014 02:12:12 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:12 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:12 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 02:12:12 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/welcome/index.php on line 8
+[13-Aug-2014 05:02:48 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:48 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:48 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:48 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/welcome/index.php on line 8
+[13-Aug-2014 05:02:49 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:49 America/Chicago] PHP Warning:  include(loginfunction.php): failed to open stream: No such file or directory in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:49 America/Chicago] PHP Warning:  include(): Failed opening 'loginfunction.php' for inclusion (include_path='.:/opt/php55/lib/php') in /home/arvsush/public_html/mayo/client/welcome/index.php on line 7
+[13-Aug-2014 05:02:49 America/Chicago] PHP Fatal error:  Call to undefined function loggedin() in /home/arvsush/public_html/mayo/client/welcome/index.php on line 8

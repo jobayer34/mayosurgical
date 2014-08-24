@@ -33,20 +33,20 @@
 				<span class="nav_icon_left"></span>
 				
 				<div class="menu_bg">
-					<ul>
+					<!--<ul>
 						<li><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/users/adduser.php">Add User</a></li>
 						<li><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/users/modify-user.php">Modify User</a></li>
 						<li><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/users/deleteuser.php">Delete User</a></li>
 						<li><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/users/view-logs.php">View Logs</a></li>
 						<li><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/users/reset-password.php">Reset Password</a></li>
-					</ul>
+					</ul>-->
 				</div>
 				
 				<span class="nav_icon_right"></span>
 			</div>
 			<div class="login_button">
 				<span class="login_icon"></span>
-				<h1><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/mayo/mayo-admin/logout.php">Logout</a></h1>
+				<h1><a href="http://<?php echo $_SERVER['HTTP_HOST']; ?>/admin/logout.php">Logout</a></h1>
 			</div>
 		</div>
 	</div>	
